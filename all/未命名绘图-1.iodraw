@@ -536,7 +536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-142" value="用户名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2393.1899999999996" y="11477.99994" width="120" height="60" as="geometry" />
+          <mxGeometry x="2532.6099999999997" y="11511.09994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-143" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -558,7 +558,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-148" value="角色" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2576.6200099999996" y="11715.559995999998" width="90" height="60" as="geometry" />
+          <mxGeometry x="2652.6100099999994" y="11629.999995999999" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-149" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -591,7 +591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-157" value="发起人工智能交互" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2564.609961" y="11648.000022999999" width="270" height="60" as="geometry" />
+          <mxGeometry x="2652.609961" y="11711.930022999999" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-158" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
