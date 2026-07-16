@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-17" value="查询学习画像" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3072.8099199999997" y="11982" width="154.12012" height="36" as="geometry" />
+          <mxGeometry x="3044.8099199999997" y="11970" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-18" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-1" target="E_KLgbJJNDyaY7OZq2lq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -390,10 +390,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-102" value="学生学习画像" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3479.9999599999996" y="12046.33002" width="79" height="36" as="geometry" />
+          <mxGeometry x="3414.9999599999996" y="12034.33002" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-103" value="学习进度" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3579.1799399999995" y="11892.320029999999" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="3544.1799399999995" y="11880.320029999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-104" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -404,7 +404,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-106" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3352.28" y="11926.06" width="90.16" height="36" as="geometry" />
+          <mxGeometry x="3322.28" y="11914.06" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-107" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -415,7 +415,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-109" value="画像编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3622.1599399999996" y="12010.330019999998" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="3646.9999399999997" y="12034.330019999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-110" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -426,7 +426,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-112" value="知识掌握度" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3415.639961" y="11874.000019999998" width="94.5" height="36" as="geometry" />
+          <mxGeometry x="3294.789961" y="11819.930019999998" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-113" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -437,7 +437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-115" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3641" y="11946" width="80.6" height="36" as="geometry" />
+          <mxGeometry x="3641" y="11950.32" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-116" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -448,7 +448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-118" value="风险等级" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3257.0699599999994" y="11962.320029999997" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="3222.0699599999994" y="11950.320029999997" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-119" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-102" target="E_KLgbJJNDyaY7OZq2lq-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
