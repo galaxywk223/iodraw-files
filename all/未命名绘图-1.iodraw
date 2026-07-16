@@ -635,7 +635,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-169" value="课程" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1976.9999599999999" y="11673.970034999998" width="54" height="36" as="geometry" />
+          <mxGeometry x="1958.9999599999999" y="11661.970034999998" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-170" value="学分" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="1849.56994" y="11771.930009999998" width="90" height="60" as="geometry" />
@@ -649,7 +649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-173" value="课程名称" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1862.31997" y="11564.030033" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1789.56997" y="11511.100032999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-174" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-169" target="E_KLgbJJNDyaY7OZq2lq-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -660,7 +660,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-176" value="课程状态" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1824.30999" y="11661.970032999998" width="150" height="60" as="geometry" />
+          <mxGeometry x="1674.30999" y="11661.970032999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-177" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-169" target="E_KLgbJJNDyaY7OZq2lq-176" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -673,7 +673,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-179" value="课程简介" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1824.3099799999995" y="11713.620039999998" width="150" height="60" as="geometry" />
+          <mxGeometry x="1674.3099799999995" y="11763.560039999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-180" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-169" target="E_KLgbJJNDyaY7OZq2lq-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -684,7 +684,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-182" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1824.3099799999998" y="11606.5299912" width="150" height="60" as="geometry" />
+          <mxGeometry x="1674.3099799999998" y="11594.5299912" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-183" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-169" target="E_KLgbJJNDyaY7OZq2lq-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
