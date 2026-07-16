@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-1" value="人工智能交互" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2601.609999999999" y="12040.000039999997" width="79" height="36" as="geometry" />
+          <mxGeometry x="2886.939999999999" y="11838.000039999997" width="79" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-2" value="交互编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3072.809959999999" y="11629.539999999999" width="80.019997" height="36" as="geometry" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-5" value="响应内容" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2860.8799399999994" y="11958.579993999998" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="3177.0499399999994" y="11783.929993999998" width="80.019997" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-6" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-1" target="E_KLgbJJNDyaY7OZq2lq-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-14" value="请求内容" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2709.8399899999995" y="11776.560039999998" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2928.5199899999993" y="11654.530039999998" width="80.019997" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-15" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-1" target="E_KLgbJJNDyaY7OZq2lq-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
