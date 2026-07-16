@@ -11,22 +11,22 @@
           <mxGeometry x="3072.809959999999" y="11629.539999999999" width="80.019997" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-195" value="分值" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2829.9999599999996" y="11069.999989999998" width="54" height="36" as="geometry" />
+          <mxGeometry x="2811.9999599999996" y="11057.999989999998" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-198" value="正确答案" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2640.58002" y="11069.999989999998" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2605.58002" y="11057.999989999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-201" value="知识点名称" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2459.6699799999997" y="11076.62" width="94.5" height="36" as="geometry" />
+          <mxGeometry x="2416.6699799999997" y="11064.62" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-204" value="题型" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2574.07998" y="11070" width="54" height="36" as="geometry" />
+          <mxGeometry x="2556.07998" y="11058" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-207" value="题目内容" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2358.6699800000006" y="11078.82996" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2323.6699800000006" y="11066.82996" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-210" value="题目编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2738.9899560000003" y="11062.11997" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2703.9899560000003" y="11050.11997" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-3" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-1" target="E_KLgbJJNDyaY7OZq2lq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
