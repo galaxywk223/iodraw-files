@@ -379,7 +379,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-99" value="作答更新画像" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3405.5599370000004" y="11625.970006" width="210" height="60" as="geometry" />
+          <mxGeometry x="3405.5599370000004" y="11625.970006" width="213" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-100" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-80" target="E_KLgbJJNDyaY7OZq2lq-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
