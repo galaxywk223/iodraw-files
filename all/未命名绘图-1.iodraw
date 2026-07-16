@@ -95,7 +95,7 @@
           <mxGeometry x="1969.5599899999997" y="11201.659989999998" width="68.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-21" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1833.9999799999998" y="11088.000059999998" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1739.9999799999998" y="11032.740059999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-22" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-24" value="任务状态" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1833.9999799999994" y="11300.00003" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1798.9999799999994" y="11288.00003" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-25" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-27" value="任务类型" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1841.5499499999999" y="11238.62007" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1806.5499499999999" y="11226.62007" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-28" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-30" value="任务编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1835.17995" y="11192.40997" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1800.17995" y="11180.40997" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-31" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-33" value="截止时间" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1835.1799299999998" y="11144.00002" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="1800.1799299999998" y="11132.00002" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-34" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-36" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1835.18" y="11026.12" width="92.75" height="36" as="geometry" />
+          <mxGeometry x="1854.5600000000002" y="10966.12" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-37" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-20" target="E_KLgbJJNDyaY7OZq2lq-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -781,7 +781,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-213" value="对应作答" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2742.32001" y="11188.26004" width="150" height="60" as="geometry" />
+          <mxGeometry x="2815.94001" y="11189.660039999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-214" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-194" target="E_KLgbJJNDyaY7OZq2lq-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
