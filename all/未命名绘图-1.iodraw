@@ -580,7 +580,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-154" value="产生学习活动" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2400.78996" y="11950.060019999999" width="280" height="80" as="geometry" />
+          <mxGeometry x="2373.71996" y="11886.00002" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-155" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -591,7 +591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-157" value="发起人工智能交互" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2615.919961" y="11721.970023" width="360" height="80" as="geometry" />
+          <mxGeometry x="2563.529961" y="11723.350022999999" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-158" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
