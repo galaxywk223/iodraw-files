@@ -569,7 +569,7 @@
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-156" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="E_KLgbJJNDyaY7OZq2lq-155" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="37" y="4" as="offset" />
+            <mxPoint x="13" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-157" value="发起人工智能交互" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -589,7 +589,7 @@
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-161" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_KLgbJJNDyaY7OZq2lq-162" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E_KLgbJJNDyaY7OZq2lq-161" connectable="0" vertex="1">
+        <mxCell id="E_KLgbJJNDyaY7OZq2lq-162" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="E_KLgbJJNDyaY7OZq2lq-161" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -611,7 +611,7 @@
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-167" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_KLgbJJNDyaY7OZq2lq-168" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E_KLgbJJNDyaY7OZq2lq-167" connectable="0" vertex="1">
+        <mxCell id="E_KLgbJJNDyaY7OZq2lq-168" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="E_KLgbJJNDyaY7OZq2lq-167" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
