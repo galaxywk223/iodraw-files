@@ -507,7 +507,7 @@
           <mxGeometry x="2451.7200199999997" y="11666.730045" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-139" value="姓名" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2492.4499299999998" y="11812.560019999999" width="54" height="36" as="geometry" />
+          <mxGeometry x="2547.6099299999996" y="11796.93002" width="54" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-140" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-138" target="E_KLgbJJNDyaY7OZq2lq-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -794,7 +794,7 @@
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-216" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-154" target="E_KLgbJJNDyaY7OZq2lq-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_KLgbJJNDyaY7OZq2lq-217" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E_KLgbJJNDyaY7OZq2lq-216" connectable="0" vertex="1">
+        <mxCell id="E_KLgbJJNDyaY7OZq2lq-217" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="E_KLgbJJNDyaY7OZq2lq-216" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -892,7 +892,7 @@
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-240" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-191" target="E_KLgbJJNDyaY7OZq2lq-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_KLgbJJNDyaY7OZq2lq-241" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E_KLgbJJNDyaY7OZq2lq-240" connectable="0" vertex="1">
+        <mxCell id="E_KLgbJJNDyaY7OZq2lq-241" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="E_KLgbJJNDyaY7OZq2lq-240" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
