@@ -175,7 +175,7 @@
           <mxGeometry x="2443.11996" y="12070.33004" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-43" value="发生时间" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2541.28995" y="12255.69002" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2615.91995" y="12168.00002" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-44" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-46" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2595.7799999999997" y="12206.910000000002" width="82.52" height="36" as="geometry" />
+          <mxGeometry x="2622.6099999999997" y="12006.580000000002" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-47" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-49" value="活动类型" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2329.9999700000003" y="12187.00002" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2294.9999700000003" y="12175.00002" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-50" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-52" value="活动编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2343.92996" y="12266.76003" width="80.019997" height="36" as="geometry" />
+          <mxGeometry x="2308.92996" y="12254.76003" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-53" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-55" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2442.5899999999997" y="12265.710000000001" width="79.88" height="36" as="geometry" />
+          <mxGeometry x="2523.72" y="12253.710000000001" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-56" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
