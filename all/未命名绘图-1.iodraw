@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-52" value="活动编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2308.92996" y="12254.76003" width="150" height="60" as="geometry" />
+          <mxGeometry x="2373.71996" y="12247.00003" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-53" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-55" value="课程编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2523.72" y="12253.710000000001" width="150" height="60" as="geometry" />
+          <mxGeometry x="2547.91" y="12235.000000000002" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-56" style="strokeWidth=2;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=30;" parent="1" source="E_KLgbJJNDyaY7OZq2lq-42" target="E_KLgbJJNDyaY7OZq2lq-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-61" value="学习计划" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="2928.5200199999995" y="12405.440009999998" width="58" height="36.000015" as="geometry" />
+          <mxGeometry x="2882.5200199999995" y="12393.440009999998" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-62" value="学生编号" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="3294.79" y="12265.710000000001" width="100" height="36" as="geometry" />
@@ -253,6 +253,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-OT91xqkTSeHwMAvvZHB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_KLgbJJNDyaY7OZq2lq-65" target="-OT91xqkTSeHwMAvvZHB-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-65" value="有效期限" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="3194.7899999999995" y="12265.710059999998" width="80.019997" height="36" as="geometry" />
@@ -918,6 +921,9 @@
         </mxCell>
         <mxCell id="E_KLgbJJNDyaY7OZq2lq-246" value="内容类型" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="1913.5599999999997" y="12302.76002" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OT91xqkTSeHwMAvvZHB-14" value="有效期限" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="3034.770002999999" y="12265.710059999998" width="80.019997" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
